@@ -1,6 +1,6 @@
-### Software Developer Intern Assignment
+# Software Developer Intern Assignment
 
-# Steps to run
+## Steps to run
 
 1. clone the repo 
 
